@@ -83,15 +83,46 @@ srbt_demonstration <- srbt_demonstration %>% filter(result != "MDA")
 srbt_demonstration$result <- as.numeric(srbt_demonstration$result)
 
 # join all
-all_facilities <- full_join(srbt_demonstration, nordion_chalk_river)
-write.csv(all_facilities, 'data/all_facilities.csv', row.names = FALSE)
+all_facilites <- full_join(srbt_demonstration, nordion_chalk_river)
 
+
+all_facilites$sample_category <- recode_factor(all_facilites$sample_category,
+                                               "Atmospheric Releases" = "Abiotic",
+                                               "Liquid Releases" = "Abiotic",
+                                               "Air Quality" = "Abiotic",
+                                               "Surface Water Quality" = "Abiotic",
+                                               "Vegetation" = "Biotic",
+                                               "Soil" = "Abiotic",
+                                               "Surface Water Quality - Ottawa River" = "Abiotic",
+                                               "Absorbed Dose" = "Abiotic",
+                                               "Surface Water Quality - General" = "Abiotic",
+                                               "Fruit" = "Consumption",
+                                               "Beans" = "Consumption",
+                                               "Root" = "Consumption",
+                                               "Vegetable" = "Consumption",
+                                               "Milk" = "Consumption",
+                                               "Sediment" = "Abiotic",
+                                               "Fish" = "Biotic",
+                                               "Clams" = "Biotic")
+
+
+write.csv(all_facilites, 'data/all_facilities.csv', row.names = FALSE)
 
 # Exploration figures -----------------------------------------------------
 
-all_facilites <- read.csv('data/all_facilities.csv')
+all_facilities <- read.csv('data/all_facilities.csv')
+
+all_facilites$sample_category <- all_facilites$sample_type_en
+
 
 unique(all_facilites$sample_type_en)
+
+
+
+
+
+
+
 
 #counts
 sample_substance <- all_facilites %>% group_by(sample_type_en, substance_name_en) %>% count()
