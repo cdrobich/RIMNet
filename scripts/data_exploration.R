@@ -115,30 +115,69 @@ all_facilities <- read.csv('data/all_facilities.csv')
 all_facilites$sample_category <- all_facilites$sample_type_en
 
 
-unique(all_facilites$sample_type_en)
-
-
-
-
-
-
-
-
 #counts
-sample_substance <- all_facilites %>% group_by(sample_type_en, substance_name_en) %>% count()
+sample_substance <- all_facilites %>% group_by(sample_category,
+                                               sample_type_en,
+                                               substance_name_en) %>% count()
 
-sample_substance %>% 
-  mutate(substance_name_en = fct_reorder(substance_name_en,
-                                             n, .desc = F)) %>% 
-  ggplot(aes(x = substance_name_en, y = n, 
-             group = sample_type_en , fill = sample_type_en)) +
+abiotic <- sample_substance %>% 
+  filter(sample_category == 'Abiotic') %>% 
+  ggplot(aes(x = substance_name_en , y = n, 
+             group = sample_type_en, fill = sample_type_en)) +
   geom_col(linewidth = 1) +
-  xlab("Substance Name") +
+  xlab(" ") +
   ylab("Count") +
-  theme_minimal() +
+  theme_bw() +
   theme(axis.text = element_text(size = 10),
-        axis.title = element_text(size = 13),
-        legend.position = c(0.8,0.5),
-        legend.text = element_text(size = 12),
+        axis.title = element_text(size = 10),
+        legend.text = element_text(size = 10),
+        legend.position = c(0.6,0.5),
         legend.title = element_blank()) +
+  ggtitle("Abiotic Samples") +
   coord_flip()
+
+biotic <- sample_substance %>% 
+  filter(sample_category == 'Biotic') %>% 
+  ggplot(aes(x = substance_name_en , y = n, 
+             group = sample_type_en, fill = sample_type_en)) +
+  geom_col(linewidth = 1) +
+  xlab(" ") +
+  ylab("Count") +
+  theme_bw() +
+  theme(axis.text = element_text(size = 10),
+        axis.title = element_text(size = 10),
+        legend.text = element_text(size = 13),
+        legend.title = element_blank()) +
+  ggtitle("Biotic Samples") +
+  coord_flip()
+
+consumption <- sample_substance %>% 
+  filter(sample_category == 'Consumption') %>% 
+  ggplot(aes(x = substance_name_en , y = n, 
+             group = sample_type_en, fill = sample_type_en)) +
+  geom_col(linewidth = 1) +
+  xlab(" ") +
+  ylab("Count") +
+  theme_bw() +
+  theme(axis.text = element_text(size = 10),
+        axis.title = element_text(size = 10),
+        legend.text = element_text(size = 13),
+        legend.title = element_blank()) +
+  ggtitle("Food samples") +
+  coord_flip()
+
+library(patchwork)
+
+layout <- "
+AAABBB
+AAABBB
+"
+
+panel2 <- biotic / consumption
+
+samples_panel <- abiotic + panel2 + 
+  plot_layout(design = layout)
+
+ggsave('output/sample_panel.jpg',
+       width = 16.4,
+       height = 9.06)
