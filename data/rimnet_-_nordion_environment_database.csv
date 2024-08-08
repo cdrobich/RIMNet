@@ -1,4 +1,4 @@
-Year | Année,Facility Name | Nom de l'installation,Sample Station Name | Nom de la station d'échantillonnage,Latitude | Latitude,Longitude | Longitude,Sample Type (English) | Type d'échantillon (anglais),Sample Type (French) | Type d'échantillon (français),Substance Name (English) | Nom de substance (anglais),Substance Name (French) | Nom de substance (français),Statistical Quantity (English) | Quantité statistique (anglais),Statistical Quantity (French) | Quantité statistique (français),<,Result | Résultat,Units | Unités
+Year,Facility Name,Sample Station Name ,Latitude,Longitude,Sample Type en,Sample Type fr,Substance Name en,Substance Name fr,Statistical Quantity en,Statistical Quantity fr,energy_below_1_mev,Result,Units
 2010,Nordion,Stack,45.3408,-75.9179,Atmospheric Releases,Rejets atmosphériques,Carbon-14,Carbone-14,Annual Total,Total annuel,,43.1,GBq/yr
 2011,Nordion,Stack,45.3408,-75.9179,Atmospheric Releases,Rejets atmosphériques,Carbon-14,Carbone-14,Annual Total,Total annuel,,67.9,GBq/yr
 2012,Nordion,Stack,45.3408,-75.9179,Atmospheric Releases,Rejets atmosphériques,Carbon-14,Carbone-14,Annual Total,Total annuel,,15.7,GBq/yr
