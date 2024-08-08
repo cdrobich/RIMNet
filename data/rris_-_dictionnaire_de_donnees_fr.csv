@@ -1,0 +1,104 @@
+Renseignements sur l'installation ,
+Année,L'année de déclaration où l'installation a declaré le rejet
+Nom de l'installation,Le nom de l'installation déclarante
+Nom de la station d'échantillonnage,Le nom de l'endroit où l'échantillon a été prélevé
+Latitude,La latitude de l'installation en degré décimal
+Longitude,La longitude de l'installation en degré décimal
+Type d'échantillon,La description de l'échantillon
+Nom de substance,Un paramètre pour lequel l'échantillon a été analysé
+Quantité statistique,"Fournit une interprétation de la signification du résultat, en d'autres termes, le résultat est-il une moyenne ou une quantité unique"
+,
+Substance,
+?<1MeV,Particules bêta d'énergie inférieure à 1 MeV
+?>1MeV,Particules bêta d'énergie supérieure à 1 MeV
+Actinium-228,Un isotope radioactif de l'actinium
+Alcalinité totale,Une mesure de la capacité de l'eau à neutraliser les acides
+Aluminium,"L'élément chimique de numéro atomique 13, un métal gris argenté clair"
+Antimoine,"L'élément chimique de numéro atomique 51, un métalloïde blanc argenté cassant"
+Argon-41,Un isotope radioactif de l'argon
+Arsenic,"L'élément chimique de numéro atomique 33, un métalloïde gris acier cassant"
+Azote Kjeldahl total,La somme de l'azote ammoniacal et des composés azotés organiques
+Baryum,"L'élément chimique de numéro atomique 56, un métal réactif blanc doux du groupe alcalino-terreux"
+Bore,"L'élément chimique de numéro atomique 5, un solide non métallique"
+Cadmium,"L'élément chimique de numéro atomique 48, un métal blanc argenté"
+Carbone organique dissous,La fraction de carbone organique qui peut passer à travers un filtre avec une taille de pores spécifique
+Carbone organique total,Une mesure de toutes les matières organiques présentes dans un échantillon
+Carbone-14,Un isotope radioactif du carbone
+Césium-134,Un isotope radioactif du césium
+Césium-137,Un isotope radioactif du césium
+Chloride,Un composé de chlore avec un autre élément ou groupe
+Chloroforme,"Un liquide incolore, volatil et odorant"
+Chrome,"L'élément chimique de numéro atomique 24, un métal blanc dur"
+Cobalt-60,Un isotope radioactif du cobalt
+Conductivité,Une mesure de la capacité d'un matériau à conduire un courant électrique
+Cuivre,"L'élément chimique de numéro atomique 29, un métal rouge-brun"
+Débit,Une mesure de la vitesse d'un fluide s'écoulant dans un canal ou une cuve
+Demande biologique en oxygène,La quantité d'oxygène dissous qui doit être présente dans l'eau pour que les micro-organismes décomposent la matière organique dans l'eau
+Demande chimique en oxygène,Une mesure de la quantité d'oxygène qui peut être consommée par des réactions dans une solution mesurée
+Dose absorbée,Une mesure de l'énergie déposée dans un milieu par un rayonnement ionisant
+Dureté totale ,La quantité de calcium et de magnésium dissous dans l'eau
+Extractibles au solvant,Graisse et huile
+Fer,"L'élément chimique de numéro atomique 26, un métal gris argenté fort"
+Iode-125,Un isotope radioactif de l'iode
+Iode-131,Un isotope radioactif de l'iode
+Lithium,"L'élément chimique de numéro atomique 3, un métal argenté doux"
+Matières dissoutes totales,"Une mesure de la teneur combinée dissoute de toutes les substances inorganiques et organiques présentes dans un liquide sous forme de suspension moléculaire, ionisée ou microgranulaire"
+Mercure,"L'élément chimique de numéro atomique 80, un métal blanc argenté lourd"
+Molybdène-99,Un isotope radioactif du molybdène
+Nickel,"L'élément chimique de numéro atomique 28, un métal blanc argenté"
+Niobium-95,Un isotope radioactif du niobium
+Nitrates,Un sel ou un ester d'acide nitrique
+Oxygène dissous,Une mesure de la quantité d'oxygène dissous dans l'eau
+Particules alpha brutes,Radionucléides mixtes émetteurs alpha
+Particules bêta brutes,Radionucléides mixtes émetteurs bêta
+Particules bêta/gamma brutes,Radionucléides mixtes émetteurs bêta et gamma
+Particules gamma brutes,Radionucléides mixtes émetteurs gamma
+pH,Une mesure de l'acidité ou de la basicité d'une solution aqueuse
+Phénoliques,Une classe de composés chimiques constitués d'un ou plusieurs groupes hydroxyle liés directement à un groupe hydrocarbure aromatique
+Phosphore,"L'élément chimique de numéro atomique 15, un non-métal"
+Phosphore-32,Un isotope radioactif du phosphore
+Plomb,"L'élément chimique de numéro atomique 82, un métal gris bleuâtre lourd"
+Potassium-40,Un isotope radioactif du potassium
+Produit de fission mixte dans les gaz nobles,Les radionucléides laissés après la fission nucléaire d'un gros noyau atomique
+Radium-226,Un isotope radioactif du radium
+Selenium,"L'élément chimique de numéro atomique 34, un non-métal cristallin gris"
+Strontium,"L'élément chimique de numéro atomique 38, un métal blanc argenté doux"
+Strontium total,Une somme de tous les isotopes radioactifs du strontium
+Strontium-90,Un isotope radioactif du strontium
+Sulfate,Un sel ou un ester d'acide sulfurique
+Température,Une mesure de chaleur ou de froideur
+Thorium-228,Un isotope radioactif du thorium
+Total des solide en suspension,"Le poids sec des particules en suspension, qui ne sont pas dissoutes, dans un échantillon d'eau qui peut être piégé par un filtre"
+Tritium de l'eau libre,Le tritium incorporé dans l'eau qui peut être extrait par des techniques telles que l'évaporation ou la lyophilisation
+Tritium (Eau tritiée),Oxyde de tritium sous forme d'eau; une forme d'eau radioactive
+Tritium élémentaire,Un isotope radioactif de l'hydrogène
+Tritium lié aux composés organiques,"Le tritium libéré dans l'environnement qui est incorporé dans les nutriments tels que les glucides, les lipides ou les protéines"
+Uranium,"L'élément chimique de numéro atomique 92, un élément radioactif naturel et courant"
+Vanadium,"L'élément chimique de numéro atomique 23, un métal gris dur"
+Xénon-133,Un isotope radioactif du xénon
+Xénon-135,Un isotope radioactif du xénon
+Xénon-135m,Un isotope radioactif du xénon
+Zinc,"L'élément chimique de numéro atomique 30, un métal blanc argenté"
+Zirconium-95,Un isotope radioactif du zirconium
+,
+Unités,
+°C,Degré Celsius
+GBq,Gigabecquerel; une mesure de la radioactivité. Équivalent à 10^9 becquerels
+MBq,Megabecquerel; une mesure de la radioactivité. Équivalent à 10^6 becquerels
+Bq/sem,Becquerels par semaine
+Bq/mo,Becquerels par mois
+kg,Kilogrammes; une mesure de masse
+pH,Unité pH
+mg/L,Milligrammes par litre
+?g/L,Microgrammes par litre
+µGy,Microgray
+Bq/kg,Becquerels par kilogramme
+Bq/kg p.f.,Becquerels par kilogramme de poids frais
+?S/cm,Microsiemens par centimètre
+L/day,Litres par jour
+m3/day,Cubic metres per day
+,Mètres cubes par jour
+Acronymes,
+LD,Limite de détection
+P/D,Pas disponible
+PPIR,Plus petit incrément de rapport

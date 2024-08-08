@@ -1,0 +1,104 @@
+Facility Information,
+Year,The reporting year that the facility reported the release
+Facility Name,The name of the reporting facility
+Sample Station Name,The name of the location where the sample was taken
+Latitude,Latitude of facility in decimal degree
+Longitude,Longitude of facility in decimal degree
+Sample Type,The description of the sample
+Substance Name,A parameter that the sample was analyzed for
+Statistical Quantity,"Provides interpretation of the meaning of the result, in other words, is the result an average or a single quantity"
+,
+Substance,
+?<1MeV,Beta particles with energy less than 1 MeV
+?>1MeV,Beta particles with energy greater than 1 MeV
+Absorbed Dose,A measure of the energy deposited in a medium by ionizing radiation
+Actinium-228,A radioactive isotope of actinium
+Aluminum,"The chemical element of atomic number 13, a light silvery-gray metal"
+Antimony,"The chemical element of atomic number 51, a brittle silvery-white metalloid"
+Argon-41,A radioactive isotope of argon
+Arsenic,"The chemical element of atomic number 33, a brittle steel-gray metalloid"
+Barium,"The chemical element of atomic number 56, a soft white reactive metal of the alkaline earth group"
+Biological Oxygen Demand,The amount of dissolved oxygen that must be present in water in order for microorganisms to decompose the organic matter in the water
+Boron,"The chemical element of atomic number 5, a nonmetallic solid"
+Cadmium,"The chemical element of atomic number 48, a silvery-white metal"
+Carbon-14,A radioactive isotope of carbon
+Cesium-134,A radioactive isotope of cesium
+Cesium-137,A radioactive isotope of cesium
+Chemical Oxygen Demand,A measure of the amount of oxygen that can be consumed by reactions in a measured solution
+Chloride,A compound of chlorine with another element or group
+Chloroform,"A colorless, volatile, sweet-smelling liquid"
+Chromium,"The chemical element of atomic number 24, a hard white metal"
+Cobalt-60,A radioactive isotope of cobalt
+Conductivity,A measure of a material's ability to conduct an electric current
+Copper,"The chemical element of atomic number 29, a red-brown metal"
+Dissolved Organic Carbon,The fraction of organic carbon that  can pass through a filter with a specific pore size
+Dissolved Oxygen,A measure of how much oxygen is dissolved in water
+Elemental Tritium (HT),A radioactive isotope of hydrogen gas
+Flow Rate,A measure of the speed of a fluid flowing through a channel or a vessel
+Free Water Tritium,The tritium incorporated in the water that can be extracted through techniques such as evaporation or freeze drying
+Iodine-125,A radioactive isotope of iodine
+Iodine-131,A radioactive isotope of iodine
+Iron,"The chemical element of atomic number 26, a strong silvery-gray metal"
+Lead,"The chemical element of atomic number 82, a a heavy bluish-gray metal"
+Lithium,"The chemical element of atomic number 3, a a soft silvery metal"
+Mercury,"The chemical element of atomic number 80, a heavy silvery-white metal "
+Mixed Fission Product in Noble Gases,The radionuclides left after a large atomic nucleus undergoes nuclear fission
+Molybdenum-99,A radioactive isotope of molybdenum
+Nickel,"The chemical element of atomic number 28, a silvery-white metal "
+Niobium-95,A radioactive isotope of niobium
+Nitrates,A salt or ester of nitric acid
+Organically Bound Tritium,"The tritium released into the environment that is incorporated into nutrients such as carbohydrates, fats, or proteins"
+Particulate gross alpha,Mixed alpha emitting radionuclides
+Particulate gross beta,Mixed beta emitting radionuclides
+Particulate gross beta/gamma,Mixed beta and gamma emitting radionuclides
+Particulate gross gamma,Mixed gamma emitting radionuclides
+pH,A measure of the acidity or basicity of an aqueous solution
+Phenolics,A class of chemical compounds consisting of one or more hydroxyl groups bonded directly to an aromatic hydrocarbon group
+Phosphorus,"The chemical element of atomic number 15, a nonmetal"
+Phosphorus-32,A radioactive isotope of phosphorus
+Potassium-40,A radioactive isotope of potassium
+Radium-226,A radioactive isotope of radium
+Selenium,"The chemical element of atomic number 34, a gray crystalline nonmetal "
+Solvent Extractables,Grease and oil
+Strontium,"The chemical element of atomic number 38, a soft silver-white metal"
+Strontium-90,A radioactive isotope of strontium
+Sulphate,A salt or ester of sulphuric acid
+Temperature,A measure of hotness or coldness
+Thorium-228,A radioactive isotope of thorium
+Total Alkalinity,A measure of water's ability to neutralize acids
+Total Dissolved Solids,"A measure of the dissolved combined content of all inorganic and organic substances present in a liquid in molecular, ionized, or micro-granular suspended form"
+Total Hardness,The amount of dissolved calcium and magnesium in the water
+Total Kjeldahl Nitrogen,The sum of ammonia nitrogen and organic nitrogenous compounds
+Total Organic Carbon,A measure of all organics present in a sample
+Total Strontium,A sum of all of the radioactive isotopes of strontium 
+Total Suspended Solids,"The dry-weight of suspended particles, that are not dissolved, in a sample of water that can be trapped by a filter"
+Tritium (HTO),Tritium oxide as water; a radioactive form of water 
+Uranium,"The chemical element of atomic number 92, a naturally and commonly occurring radioactive element"
+Vanadium,"The chemical element of atomic number 23, a hard gray metal"
+Xenon-133,A radioactive isotope of xenon
+Xenon-135,A radioactive isotope of xenon
+Xenon-135m,A radioactive isotope of xenon
+Zinc,"The chemical element of atomic number 30, a silvery-white metal"
+Zirconium-95,A radioactive isotope of zirconium
+,
+Units,
+°C,Degrees Celsius
+GBq,Gigabecquerel; a measurement of radioactivity. Equivalent to 10^9 becquerels
+MBq,Megabecquerel; a measurement of radioactivity. Equivalent to 10^6 becquerels
+Bq/wk,Becquerels per week
+Bq/mo,Becquerels per month
+kg,Kilograms; a measurement of mass
+pH,pH unit
+mg/L,Milligrams per litre
+?g/L,Micrograms per litre
+µGy,Microgray
+Bq/kg,Becquerels per kilogram
+Bq/kg f.w.,Becquerels per kilogram fresh weight
+?S/cm,Microsiemens per centimetre
+L/day,Litres per day
+m3/day,Cubic metres per day
+,
+Acronyms,
+N/A,Not available
+ND,Not detected
+SRI,Smallest reporting increment
