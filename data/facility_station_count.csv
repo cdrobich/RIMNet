@@ -1,0 +1,188 @@
+"","facility_name","sample_station_name","n"
+"1","Chalk River Laboratories","Balmer Bay",183
+"2","Chalk River Laboratories","Boundary - B560 Low Background Building",9
+"3","Chalk River Laboratories","Boundary - Balmer Bay",15
+"4","Chalk River Laboratories","Boundary - Balmer Bay, West Mattawa Rd.",28
+"5","Chalk River Laboratories","Boundary - Bldg. 560, Outdoors",15
+"6","Chalk River Laboratories","Boundary - C-2 Fire Trail",30
+"7","Chalk River Laboratories","Boundary - CRL, near Building 560",12
+"8","Chalk River Laboratories","Boundary - East Mattawa Rd.",15
+"9","Chalk River Laboratories","Boundary - East Mattawa Road",14
+"10","Chalk River Laboratories","Boundary - Perch Lake Satellite",6
+"11","Chalk River Laboratories","Boundary - Pointe au Baptême",42
+"12","Chalk River Laboratories","Building 250 Tritium Laboratory",52
+"13","Chalk River Laboratories","CECEUD Building 215",19
+"14","Chalk River Laboratories","CICL",9
+"15","Chalk River Laboratories","CRCL",9
+"16","Chalk River Laboratories","CRL - CRL Intake Well",68
+"17","Chalk River Laboratories","Chalk (Sturgeon) Lake",78
+"18","Chalk River Laboratories","Chalk River",200
+"19","Chalk River Laboratories","Cook's Cover, Quebec",64
+"20","Chalk River Laboratories","Deep River",243
+"21","Chalk River Laboratories","Deep River - 9 km upstream of CRL",68
+"22","Chalk River Laboratories","Discharges to Maskinonge Lake",39
+"23","Chalk River Laboratories","East Swamp at Weir",92
+"24","Chalk River Laboratories","FMC Building 375",39
+"25","Chalk River Laboratories","Fort William - 14 km downstream of CRL",67
+"26","Chalk River Laboratories","Fort William, Quebec",64
+"27","Chalk River Laboratories","Frog Pond Seepage",28
+"28","Chalk River Laboratories","Groundwater to Ottawa River (Estimate)",39
+"29","Chalk River Laboratories","Harrington Bay - 9 km downstream of CRL",68
+"30","Chalk River Laboratories","Heavy Water Upgrade Plant",5
+"31","Chalk River Laboratories","Highview",121
+"32","Chalk River Laboratories","Highview - 8 km downstream of CRL",23
+"33","Chalk River Laboratories","Indian Point, Quebec",28
+"34","Chalk River Laboratories","Killaloe",207
+"35","Chalk River Laboratories","King's Beach",52
+"36","Chalk River Laboratories","Lamure Beach, Deep River",24
+"37","Chalk River Laboratories","Locations Downstream of CRL",4
+"38","Chalk River Laboratories","Locations Upstream of CRL",4
+"39","Chalk River Laboratories","Locations at CRL Boundary",4
+"40","Chalk River Laboratories","MACL",7
+"41","Chalk River Laboratories","Mackey (above Rolphton)",87
+"42","Chalk River Laboratories","Main Stream above Plant Road",28
+"43","Chalk River Laboratories","Main Stream at Weir",77
+"44","Chalk River Laboratories","Molybdenum-99 Production Facility",49
+"45","Chalk River Laboratories","NFFF Building 405",19
+"46","Chalk River Laboratories","NFFF Building 429A and Building 429B",15
+"47","Chalk River Laboratories","NRU Reactor",85
+"48","Chalk River Laboratories","OBCL",10
+"49","Chalk River Laboratories","Off-site - Demers Centre",20
+"50","Chalk River Laboratories","Off-site - Harrington Bay",38
+"51","Chalk River Laboratories","Off-site - MacDonald, Deep River",38
+"52","Chalk River Laboratories","Off-site - Mountain View Subdivision",15
+"53","Chalk River Laboratories","Off-site - Mountainview Subdivision",7
+"54","Chalk River Laboratories","Off-site - NPD Des Joachims",12
+"55","Chalk River Laboratories","Off-site - NPD Hwy 17 Gate",12
+"56","Chalk River Laboratories","Off-site - NPD Reactor Site",12
+"57","Chalk River Laboratories","Off-site - Oiseau Point, Hilborne",7
+"58","Chalk River Laboratories","Off-site - Ottawa St., Chalk River",15
+"59","Chalk River Laboratories","Off-site - Pembroke, Golf Course Rd.",15
+"60","Chalk River Laboratories","Off-site - Petawawa Filtration Plant",15
+"61","Chalk River Laboratories","Off-site - Petawawa Water Filtration Plant",17
+"62","Chalk River Laboratories","Off-site - Point Stewart",4
+"63","Chalk River Laboratories","Off-site - Quebec, Opposite CRL",1
+"64","Chalk River Laboratories","Off-site - Quebec, opposite CRL",7
+"65","Chalk River Laboratories","Off-site - Rankin",15
+"66","Chalk River Laboratories","Off-site - Sheenboro",38
+"67","Chalk River Laboratories","Oiseau Point, Quebec",64
+"68","Chalk River Laboratories","On-site - Building 145, Indoors",6
+"69","Chalk River Laboratories","On-site - Building 145, Outdoors",6
+"70","Chalk River Laboratories","On-site - C-2 Fire Trail at Hydro Line",15
+"71","Chalk River Laboratories","On-site - Main Gate, B449J",15
+"72","Chalk River Laboratories","On-site - Main Gate, Building 449J",15
+"73","Chalk River Laboratories","On-site - NSDF Boundary at Perch Lake",3
+"74","Chalk River Laboratories","On-site - NSDF Boundary at Plant Road",3
+"75","Chalk River Laboratories","On-site - NSDF at Perch Lake",4
+"76","Chalk River Laboratories","On-site - NSDF at Plant Road",4
+"77","Chalk River Laboratories","On-site - Perch Lake Main",43
+"78","Chalk River Laboratories","On-site - Sewage Treatment Plant",15
+"79","Chalk River Laboratories","On-site - WMA B Gate",15
+"80","Chalk River Laboratories","On-site - West Mattawa Road",6
+"81","Chalk River Laboratories","Operating Facilities and Storage-With-Surveillance State",39
+"82","Chalk River Laboratories","Other",65
+"83","Chalk River Laboratories","PPCL",8
+"84","Chalk River Laboratories","Pembroke",266
+"85","Chalk River Laboratories","Pembroke - 28 km downstream of CRL",68
+"86","Chalk River Laboratories","Perch Creek Weir",48
+"87","Chalk River Laboratories","Perch Creek at Weir",89
+"88","Chalk River Laboratories","Perch Lake Inlet # 1 at Weir",68
+"89","Chalk River Laboratories","Perch Lake Inlet # 2 at Weir",78
+"90","Chalk River Laboratories","Perch Lake Inlet # 4",18
+"91","Chalk River Laboratories","Perch Lake Inlet # 4 at Weir",24
+"92","Chalk River Laboratories","Perch Lake Outlet",28
+"93","Chalk River Laboratories","Petawawa",160
+"94","Chalk River Laboratories","Petawawa - 18 km downstream of CRL",68
+"95","Chalk River Laboratories","Petawawa Point, Petawawa",64
+"96","Chalk River Laboratories","Pine Point, Deep River",60
+"97","Chalk River Laboratories","Pointe au Baptême - CRL Downstream Boundary",45
+"98","Chalk River Laboratories","Pointe du Baptême, Downstream",64
+"99","Chalk River Laboratories","Pointe du Baptême, Upstream",64
+"100","Chalk River Laboratories","Powerhouse Discharge",39
+"101","Chalk River Laboratories","Process Outfall",50
+"102","Chalk River Laboratories","Radioisotope Laboratories (Building 350 Fan 504, 505 and Building 375 Fan 27)",4
+"103","Chalk River Laboratories","Recycle Fuel Fabrication Laboratories",20
+"104","Chalk River Laboratories","Riverside Park, Pembroke",64
+"105","Chalk River Laboratories","Rolphton",24
+"106","Chalk River Laboratories","Rolphton - 28 km upstream of CRL",68
+"107","Chalk River Laboratories","Sanitary Outfall",27
+"108","Chalk River Laboratories","Sewage Treatment Plant",15
+"109","Chalk River Laboratories","Sheenboro",153
+"110","Chalk River Laboratories","South Swamp at Weir",76
+"111","Chalk River Laboratories","Spring B at Disposal B",60
+"112","Chalk River Laboratories","Storm Outfall 03",39
+"113","Chalk River Laboratories","Storm Outfall 04",33
+"114","Chalk River Laboratories","Storm Outfall 05",39
+"115","Chalk River Laboratories","Storm Outfall 06",24
+"116","Chalk River Laboratories","Storm Outfall 08",12
+"117","Chalk River Laboratories","Storm Outfall 4F6",39
+"118","Chalk River Laboratories","Storm Outfall 4F7",39
+"119","Chalk River Laboratories","Stream 01",523
+"120","Chalk River Laboratories","Stream 02",425
+"121","Chalk River Laboratories","Sturgeon Lake",42
+"122","Chalk River Laboratories","Temporary Monitoring Stations",8
+"123","Chalk River Laboratories","Universal Cells",39
+"124","Chalk River Laboratories","WMA B at Hydro Line",33
+"125","Chalk River Laboratories","Waltham",122
+"126","Chalk River Laboratories","Waste Management Areas",71
+"127","Chalk River Laboratories","Waste Treatment Centre",65
+"128","Nordion","Sewer",107
+"129","Nordion","Stack",71
+"130","Nuclear Power Demonstration","C-506",53
+"131","Nuclear Power Demonstration","Deep River",152
+"132","Nuclear Power Demonstration","Des Joachims",152
+"133","Nuclear Power Demonstration","Make-up Tank",2
+"134","Nuclear Power Demonstration","Manhole #2",13
+"135","Nuclear Power Demonstration","NB-E",28
+"136","Nuclear Power Demonstration","NB-S",28
+"137","Nuclear Power Demonstration","NB-W",40
+"138","Nuclear Power Demonstration","NPD-NE",28
+"139","Nuclear Power Demonstration","NPD-NW",16
+"140","Nuclear Power Demonstration","NPD-SE",28
+"141","Nuclear Power Demonstration","NPD-SW",28
+"142","Nuclear Power Demonstration","O1B",28
+"143","Nuclear Power Demonstration","R-103",52
+"144","Nuclear Power Demonstration","R-306",53
+"145","Nuclear Power Demonstration","R-408",53
+"146","Nuclear Power Demonstration","R-607",53
+"147","Nuclear Power Demonstration","R-742",53
+"148","Nuclear Power Demonstration","R-745",53
+"149","Nuclear Power Demonstration","ST-5",53
+"150","Nuclear Power Demonstration","Stack",35
+"151","Nuclear Power Demonstration","Stack Base",12
+"152","Nuclear Power Demonstration","Wells Area Sump",34
+"153","SRBT","E1000",204
+"154","SRBT","E250",203
+"155","SRBT","E500",204
+"156","SRBT","N1000",204
+"157","SRBT","N250",204
+"158","SRBT","N500",204
+"159","SRBT","NE",84
+"160","SRBT","NE1000",204
+"161","SRBT","NE2000",204
+"162","SRBT","NE250",204
+"163","SRBT","NE500",204
+"164","SRBT","NW",84
+"165","SRBT","NW1000",204
+"166","SRBT","NW2000",204
+"167","SRBT","NW250",204
+"168","SRBT","NW500",204
+"169","SRBT","S1000",204
+"170","SRBT","S250",204
+"171","SRBT","S500",204
+"172","SRBT","SE",84
+"173","SRBT","SE1000",204
+"174","SRBT","SE2000",204
+"175","SRBT","SE250",204
+"176","SRBT","SE500",204
+"177","SRBT","SW",84
+"178","SRBT","SW1000",204
+"179","SRBT","SW2000",204
+"180","SRBT","SW250",204
+"181","SRBT","SW500",204
+"182","SRBT","Sewer",678
+"183","SRBT","Stack",1353
+"184","SRBT","W1000",204
+"185","SRBT","W250",204
+"186","SRBT","W500",204
+"187","SRBT","stack",1

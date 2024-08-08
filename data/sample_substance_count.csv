@@ -1,0 +1,142 @@
+"sample_category","sample_type_en","substance_name_en","n"
+"Abiotic","Absorbed Dose","Absorbed Dose",315
+"Abiotic","Air Quality","Carbon-14",101
+"Abiotic","Air Quality","Tritium (HTO)",631
+"Abiotic","Air Quality","Tritium Oxide (HTO)",6047
+"Abiotic","Atmospheric Releases","Argon-41",8
+"Abiotic","Atmospheric Releases","Carbon-14",25
+"Abiotic","Atmospheric Releases","Cobalt-60",13
+"Abiotic","Atmospheric Releases","Elemental Tritium (HT)",19
+"Abiotic","Atmospheric Releases","Iodine-125",62
+"Abiotic","Atmospheric Releases","Iodine-131",103
+"Abiotic","Atmospheric Releases","Mixed Fission Product in Noble Gases",10
+"Abiotic","Atmospheric Releases","Particulate Gross Beta/Gamma",13
+"Abiotic","Atmospheric Releases","Particulate gross alpha",155
+"Abiotic","Atmospheric Releases","Particulate gross beta",139
+"Abiotic","Atmospheric Releases","Tritium (HT)",677
+"Abiotic","Atmospheric Releases","Tritium (HTO)",114
+"Abiotic","Atmospheric Releases","Tritium Oxide (HTO)",677
+"Abiotic","Atmospheric Releases","Xenon-133",17
+"Abiotic","Atmospheric Releases","Xenon-135",11
+"Abiotic","Atmospheric Releases","Xenon-135m",11
+"Abiotic","Liquid Releases","?<1MeV",11
+"Abiotic","Liquid Releases","?>1MeV",11
+"Abiotic","Liquid Releases","Carbon-14",8
+"Abiotic","Liquid Releases","Cesium-137",14
+"Abiotic","Liquid Releases","Cobalt-60",14
+"Abiotic","Liquid Releases","Iodine-125",11
+"Abiotic","Liquid Releases","Iodine-131",11
+"Abiotic","Liquid Releases","Molybdenum-99",11
+"Abiotic","Liquid Releases","Niobium-95",13
+"Abiotic","Liquid Releases","Particulate Gross Beta/Gamma",13
+"Abiotic","Liquid Releases","Particulate gross alpha",167
+"Abiotic","Liquid Releases","Particulate gross beta",159
+"Abiotic","Liquid Releases","Particulate gross gamma",4
+"Abiotic","Liquid Releases","Strontium-90",13
+"Abiotic","Liquid Releases","Total Strontium",20
+"Abiotic","Liquid Releases","Tritium (HT)",678
+"Abiotic","Liquid Releases","Tritium (HTO)",184
+"Abiotic","Liquid Releases","Zirconium-95",13
+"Abiotic","Sediment","Cesium-134",156
+"Abiotic","Sediment","Cesium-137",156
+"Abiotic","Sediment","Cobalt-60",156
+"Abiotic","Sediment","Potassium-40",156
+"Abiotic","Soil","Tritium (HTO)",118
+"Abiotic","Surface Water Quality","Cesium-137",100
+"Abiotic","Surface Water Quality","Particulate gross alpha",4
+"Abiotic","Surface Water Quality","Particulate gross beta",4
+"Abiotic","Surface Water Quality","Strontium-90",96
+"Abiotic","Surface Water Quality","Tritium (HTO)",100
+"Abiotic","Surface Water Quality - General","Aluminum",28
+"Abiotic","Surface Water Quality - General","Antimony",13
+"Abiotic","Surface Water Quality - General","Arsenic",17
+"Abiotic","Surface Water Quality - General","Barium",23
+"Abiotic","Surface Water Quality - General","Biological Oxygen Demand",15
+"Abiotic","Surface Water Quality - General","Boron",22
+"Abiotic","Surface Water Quality - General","Cadmium",20
+"Abiotic","Surface Water Quality - General","Cesium-137",82
+"Abiotic","Surface Water Quality - General","Chemical Oxygen Demand",23
+"Abiotic","Surface Water Quality - General","Chloride",14
+"Abiotic","Surface Water Quality - General","Chloroform",12
+"Abiotic","Surface Water Quality - General","Chromium",15
+"Abiotic","Surface Water Quality - General","Cobalt-60",81
+"Abiotic","Surface Water Quality - General","Conductivity",28
+"Abiotic","Surface Water Quality - General","Copper",22
+"Abiotic","Surface Water Quality - General","Dissolved Organic Carbon",28
+"Abiotic","Surface Water Quality - General","Dissolved Oxygen",18
+"Abiotic","Surface Water Quality - General","Flow Rate",72
+"Abiotic","Surface Water Quality - General","Iron",28
+"Abiotic","Surface Water Quality - General","Lead",7
+"Abiotic","Surface Water Quality - General","Lithium",11
+"Abiotic","Surface Water Quality - General","Mercury",19
+"Abiotic","Surface Water Quality - General","Nickel",19
+"Abiotic","Surface Water Quality - General","Nitrates",28
+"Abiotic","Surface Water Quality - General","Particulate gross alpha",157
+"Abiotic","Surface Water Quality - General","Particulate gross beta",196
+"Abiotic","Surface Water Quality - General","Phenolics",24
+"Abiotic","Surface Water Quality - General","Phosphorus",26
+"Abiotic","Surface Water Quality - General","Selenium",9
+"Abiotic","Surface Water Quality - General","Solvent Extractables",27
+"Abiotic","Surface Water Quality - General","Strontium",18
+"Abiotic","Surface Water Quality - General","Sulphate",23
+"Abiotic","Surface Water Quality - General","Temperature",15
+"Abiotic","Surface Water Quality - General","Total Alkalinity",23
+"Abiotic","Surface Water Quality - General","Total Dissolved Solids",23
+"Abiotic","Surface Water Quality - General","Total Hardness",26
+"Abiotic","Surface Water Quality - General","Total Kjeldahl Nitrogen",23
+"Abiotic","Surface Water Quality - General","Total Organic Carbon",28
+"Abiotic","Surface Water Quality - General","Total Strontium",41
+"Abiotic","Surface Water Quality - General","Total Suspended Solids",28
+"Abiotic","Surface Water Quality - General","Tritium (HTO)",182
+"Abiotic","Surface Water Quality - General","Uranium",18
+"Abiotic","Surface Water Quality - General","Vanadium",21
+"Abiotic","Surface Water Quality - General","Zinc",27
+"Abiotic","Surface Water Quality - General","pH",28
+"Abiotic","Surface Water Quality - Ottawa River","Cesium-137",105
+"Abiotic","Surface Water Quality - Ottawa River","Particulate gross alpha",120
+"Abiotic","Surface Water Quality - Ottawa River","Particulate gross beta",135
+"Abiotic","Surface Water Quality - Ottawa River","Total Strontium",55
+"Abiotic","Surface Water Quality - Ottawa River","Tritium (HTO)",128
+"Biotic","Clams","Cesium-137",10
+"Biotic","Clams","Cobalt-60",10
+"Biotic","Clams","Particulate gross alpha",7
+"Biotic","Clams","Particulate gross beta",10
+"Biotic","Clams","Total Strontium",6
+"Biotic","Fish","Carbon-14",68
+"Biotic","Fish","Cesium-134",68
+"Biotic","Fish","Cesium-137",68
+"Biotic","Fish","Organically Bound Tritium",34
+"Biotic","Fish","Particulate gross alpha",58
+"Biotic","Fish","Particulate gross beta",68
+"Biotic","Fish","Phosphorus-32",6
+"Biotic","Fish","Potassium-40",68
+"Biotic","Fish","Tritium (HTO)",36
+"Biotic","Vegetation","Tritium (HTO)",118
+"Consumption","Beans","Cesium-137",8
+"Consumption","Beans","Free Water Tritium",7
+"Consumption","Beans","Organically Bound Tritium",4
+"Consumption","Beans","Particulate gross alpha",8
+"Consumption","Beans","Particulate gross beta",8
+"Consumption","Fruit","Cesium-137",94
+"Consumption","Fruit","Free Water Tritium",86
+"Consumption","Fruit","Organically Bound Tritium",75
+"Consumption","Fruit","Particulate gross alpha",63
+"Consumption","Fruit","Particulate gross beta",96
+"Consumption","Milk","Actinium-228",15
+"Consumption","Milk","Carbon-14",15
+"Consumption","Milk","Cesium-137",15
+"Consumption","Milk","Iodine-131",15
+"Consumption","Milk","Potassium-40",15
+"Consumption","Milk","Radium-226",15
+"Consumption","Milk","Thorium-228",15
+"Consumption","Milk","Tritium (HTO)",15
+"Consumption","Root","Cesium-137",95
+"Consumption","Root","Free Water Tritium",77
+"Consumption","Root","Organically Bound Tritium",73
+"Consumption","Root","Particulate gross alpha",72
+"Consumption","Root","Particulate gross beta",96
+"Consumption","Vegetable","Cesium-137",93
+"Consumption","Vegetable","Free Water Tritium",82
+"Consumption","Vegetable","Organically Bound Tritium",79
+"Consumption","Vegetable","Particulate gross alpha",79
+"Consumption","Vegetable","Particulate gross beta",97

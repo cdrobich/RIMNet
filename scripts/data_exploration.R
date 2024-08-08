@@ -120,6 +120,9 @@ sample_substance <- all_facilites %>% group_by(sample_category,
                                                sample_type_en,
                                                substance_name_en) %>% count()
 
+write.csv(sample_substance, 'data/sample_substance_count.csv', row.names = FALSE)
+
+
 abiotic <- sample_substance %>% 
   filter(sample_category == 'Abiotic') %>% 
   ggplot(aes(x = substance_name_en , y = n, 
@@ -181,3 +184,64 @@ samples_panel <- abiotic + panel2 +
 ggsave('output/sample_panel.jpg',
        width = 16.4,
        height = 9.06)
+
+
+# sampling per facility
+all_facilites %>% group_by(facility_name) %>% count()
+
+# facility_name                   n
+# 1 Chalk River Laboratories     6443
+# 2 Nordion                       178
+# 3 Nuclear Power Demonstration  1047
+# 4 SRBT                         8079
+
+facility_station <- all_facilites %>% group_by(facility_name, sample_station_name) %>% count()
+write.csv(facility_station, "data/facility_station_count.csv")
+
+## sampling time period
+
+sample_often <- all_facilites %>% group_by(sample_type_en, statistical_quantity_en) %>% count()
+write.csv(sample_often, "data/sample_often_count.csv")
+
+
+# results -----------------------------------------------------------------
+
+SRBT <- all_facilites %>% filter(facility_name == "SRBT") %>% 
+  ggplot(aes(x = substance_name_en, y = result)) +
+  geom_boxplot() +
+  xlab(" ") +
+  ylab("Result (various units)") +
+  theme_bw() +
+  coord_flip() +
+  ggtitle("SRBT")
+
+chalk <- all_facilites %>% filter(facility_name == "Chalk River Laboratories") %>% 
+  ggplot(aes(x = substance_name_en, y = result)) +
+  geom_boxplot() +
+  xlab(" ") +
+  ylab("Result (various units)") +
+  theme_bw() +
+  coord_flip() +
+  ggtitle("Chalk River Laboratories")
+
+nord <- all_facilites %>% filter(facility_name == "Nordion") %>% 
+  ggplot(aes(x = substance_name_en, y = result)) +
+  geom_boxplot() +
+  xlab(" ") +
+  ylab("Result (various units)") +
+  theme_bw() +
+  coord_flip() +
+  ggtitle("Nordion")
+
+demo <- all_facilites %>% filter(facility_name == "Nuclear Power Demonstration") %>% 
+  ggplot(aes(x = substance_name_en, y = result)) +
+  geom_boxplot() +
+  xlab(" ") +
+  ylab("Result (various units)") +
+  theme_bw() +
+  coord_flip() +
+  ggtitle("Nuclear Power Demonstration")
+
+samples_station <- chalk + demo + nord + SRBT 
+ggsave("output/samples_station.jpg",
+       width = 14, height = 12)
